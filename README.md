@@ -6,6 +6,8 @@ Welcome to my self-introduction repository.
 
 I've uploaded a self-introduction video to this repository (`Self Intro .mp4`). You can download or view it to learn more about me, my background, and my passions.
 
+Alternatively, you can also **[view the video directly on Google Drive here](https://drive.google.com/file/d/1_ngZDnSBNUlTsB624q5cmNnZ-3Rb52ZU/view?usp=sharing)**.
+
 ## 🚀 About Me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
